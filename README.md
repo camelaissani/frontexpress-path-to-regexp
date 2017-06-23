@@ -1,6 +1,6 @@
 # frontexpress-path-to-regexp
 
-> Frontexpress plugin to support Express-style path string such as /user/:name.
+[Frontexpress](https://github.com/camelaissani/frontexpress) plugin to support Express-style path string such as /user/:name.
 
 [![Build Status](https://travis-ci.org/camelaissani/frontexpress-path-to-regexp.svg?branch=master)](https://travis-ci.org/camelaissani/frontexpress-path-to-regexp)
  [![Code Climate](https://codeclimate.com/github/camelaissani/frontexpress-path-to-regexp/badges/gpa.svg)](https://codeclimate.com/github/camelaissani/frontexpress-path-to-regexp)

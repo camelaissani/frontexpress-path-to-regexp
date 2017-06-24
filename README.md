@@ -30,4 +30,4 @@ app.get('/:foo*', (req, res) => {
 });
 ```
 
-> This plugin uses [path-to-regexp](https://github.com/pillarjs/path-to-regexp) for matching the route paths; see the path-to-regexp documentation for all the possibilities in defining route paths.
+> This plugin uses [path-to-regexp](https://github.com/pillarjs/path-to-regexp) for matching the route paths; see the path-to-regexp documentation for all the possibilities in defining route paths. The same library used in Express.
